@@ -1,2 +1,2 @@
-# Web-Scraper-
+# Web-Scraper
 Selenium 
